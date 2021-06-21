@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSCI342_FactoryDB", "CSCI342_FactoryDB\CSCI342_FactoryDB.csproj", "{33C5DB4F-BC79-44A0-8FB5-F36A4E00D2D1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{33C5DB4F-BC79-44A0-8FB5-F36A4E00D2D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33C5DB4F-BC79-44A0-8FB5-F36A4E00D2D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33C5DB4F-BC79-44A0-8FB5-F36A4E00D2D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33C5DB4F-BC79-44A0-8FB5-F36A4E00D2D1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AEB25313-04CD-4E69-8FD0-61BFEFD8A7E9}
+	EndGlobalSection
+EndGlobal
